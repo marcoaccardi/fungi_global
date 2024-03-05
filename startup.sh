@@ -58,4 +58,4 @@ open $FUNGI/fungi_max_env/fungi_max_env.maxproj
 
 # RUN ABLETON LIVE PROJECT
 echo "RUN ABLETON LIVE..."
-open $FUNGI/fungi_sound/fungi_sonification_2024\ Project/fungi_sonification_2024.als
+# open $FUNGI/fungi_sound/fungi_sonification_2024\ Project/fungi_sonification_2024-05-03.als
