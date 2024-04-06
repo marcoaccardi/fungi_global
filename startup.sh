@@ -49,6 +49,7 @@ fi
 
 # RUN FRONTEND MAP
 cd $FUNGI/fungi_map
+git pull
 npm run dev &
 
 
